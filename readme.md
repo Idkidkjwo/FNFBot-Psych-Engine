@@ -17,15 +17,6 @@ A bot for automatically playing Friday Night Funkin' and its modifications. Sign
 - **F2** - Increase offset (+1)
 - **F3** - Decrease offset (-1)
 
-## Development
-
-The project is developed in C# using Windows Forms. For proper compilation, you need:
-
-- Visual Studio 2019 or newer
-- .NET Framework 4.8
-- Newtonsoft.Json
-- InputSimulator...
-
 ### What is FNFBot?
 
 FNFBot is a bot program that lets users automatically play Friday Night Funkin' charts.
