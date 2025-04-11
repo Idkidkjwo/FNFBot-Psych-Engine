@@ -4,13 +4,12 @@ A bot for automatically playing Friday Night Funkin' and its modifications. Sign
 
 ## Features
 
-- Automatic key pressing with precise timing
-- Support for songs from Psych Engine and other modifications
-- Support for hold notes
-- Note visualization on screen for preview
-- Adjustable offset for perfect synchronization
+- Automatic key pressing with precise timing (FNFBot, Kade)
+- Support for songs from Psych Engine and other modifications (Warning: FNFBot can convert Hurt Notes in normal notes.)
+- Support for hold notes (FNFBot, Kade)
+- Note visualization on screen for preview (bug, nedded fix.)
+- Adjustable offset for perfect synchronization 
 - Cleaning of special note properties incompatible with the engine
-- Smooth offset adjustment without interrupting playback
 
 ## Controls
 
@@ -69,3 +68,9 @@ Currently the keybinds are as follows:
 
 Offset = the amount of time in miliseconds to hit before/after the note time.
 Default: 25-30.
+
+
+
+
+**ORIGINAL**: KadeDev.
+**VERSION OF THIS BOT**: FNFBot 2.2.
