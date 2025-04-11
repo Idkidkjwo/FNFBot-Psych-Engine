@@ -18,23 +18,6 @@ A bot for automatically playing Friday Night Funkin' and its modifications. Sign
 - **F2** - Increase offset (+1)
 - **F3** - Decrease offset (-1)
 
-## Installation
-
-1. Download the latest release from the [Releases](https://github.com/yourusername/FNFBot-Rewrite/releases) section
-2. Extract the archive to any folder
-3. Run FNFBot20.exe
-4. Specify the path to your Friday Night Funkin' game directory
-5. Select a song from the list and enjoy!
-
-## Version 2.2 Improvements
-
-- Fixed issue with processing special notes in Psych Engine
-- Added support for various song naming formats
-- Fixed note overlap issue when displaying
-- Optimized thread management for stable operation
-- Added smooth offset adjustment without reloading songs
-- Improved displayed note cleaning for better performance
-
 ## Development
 
 The project is developed in C# using Windows Forms. For proper compilation, you need:
@@ -42,11 +25,7 @@ The project is developed in C# using Windows Forms. For proper compilation, you 
 - Visual Studio 2019 or newer
 - .NET Framework 4.8
 - Newtonsoft.Json
-- InputSimulator
-
-## License
-
-MIT License
+- InputSimulator...
 
 ### What is FNFBot?
 
@@ -89,4 +68,4 @@ Currently the keybinds are as follows:
 | F3   | Decrease the offset        |
 
 Offset = the amount of time in miliseconds to hit before/after the note time.
-Default: 25
+Default: 25-30.
